@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<NML VERSION="19">
+	<HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor">
+	</HEAD>
+	<COLLECTION ENTRIES="1442">
+		<ENTRY MODIFIED_DATE="AAAA" MODIFIED_TIME="8145" AUDIO_ID="ANEARnh3qIipmrmbvLuZqpmYqpz97+y7Zs68////////t0NDRERWdmVEdWZal77+pkI0Mi7///j/7/9Z////////////////NlJGiHYyZlFBZmaIZsd5//r/9v/+//j/+f//////////////yv/////////4IFyWl5pJ3K3tnvvezajv53nP//l3r//6z///9q////+KqXVCX2lWTP/////////83////v////7//////////t///////////////////v/////////f/+/////////////+vv/6iKZ0JZdJYiRoMVgiakczg2VBP6hod43///7//////////P/LgA==" TITLE="teste music !@#$%¨&amp;()" ARTIST="teste music !@#$%¨&amp;()">
+			<LOCATION DIR="/:www/:" FILE="teste music !@#$%¨&amp;().mp3" VOLUME="D:" VOLUMEID="1ee0d715">
+			</LOCATION>
+			<ALBUM TRACK="1" TITLE="teste music !@#$%¨&amp;()">
+			</ALBUM>
+			<MODIFICATION_INFO AUTHOR_TYPE="user">
+			</MODIFICATION_INFO>
+			<INFO BITRATE="128000" GENRE="teste music !@#$%¨&amp;()" LABEL="teste music !@#$%¨&amp;()" COMMENT="teste music !@#$%¨&amp;()" KEY_LYRICS="teste music !@#$%¨&amp;()" RATING="teste music !@#$%¨&amp;()" REMIXER="teste music !@#$%¨&amp;()" PRODUCER="teste music !@#$%¨&amp;()" MIX="teste music !@#$%¨&amp;()" KEY="G" PLAYTIME="209" PLAYTIME_FLOAT="208.848984" RANKING="204" IMPORT_DATE="2022/5/16" RELEASE_DATE="2002/1/1" FLAGS="12" FILESIZE="3264" COLOR="2">
+			</INFO>
+			<TEMPO BPM="72.498070" BPM_QUALITY="100.000000">
+			</TEMPO>
+			<LOUDNESS PEAK_DB="-3.114033" PERCEIVED_DB="-4.873489" ANALYZED_DB="-4.873489">
+			</LOUDNESS>
+			<MUSICAL_KEY VALUE="7">
+			</MUSICAL_KEY>
+			<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="1888.985718" LEN="0.000000" REPEATS="-1" HOTCUE="0">
+			</CUE_V2>
+		</ENTRY>
+		<ENTRY MODIFIED_DATE="BBBBB" MODIFIED_TIME="8145" AUDIO_ID="ANEARnh3qIipmrmbvLuZqpmYqpz97+y7Zs68////////t0NDRERWdmVEdWZal77+pkI0Mi7///j/7/9Z////////////////NlJGiHYyZlFBZmaIZsd5//r/9v/+//j/+f//////////////yv/////////4IFyWl5pJ3K3tnvvezajv53nP//l3r//6z///9q////+KqXVCX2lWTP/////////83////v////7//////////t///////////////////v/////////f/+/////////////+vv/6iKZ0JZdJYiRoMVgiakczg2VBP6hod43///7//////////P/LgA==" TITLE="teste music !@#$%¨&amp;()" ARTIST="teste music !@#$%¨&amp;()">
+			<LOCATION DIR="/:www/:" FILE="teste music !@#$%¨&amp;().mp3" VOLUME="D:" VOLUMEID="1ee0d715">
+			</LOCATION>
+			<ALBUM TRACK="1" TITLE="teste music !@#$%¨&amp;()">
+			</ALBUM>
+			<MODIFICATION_INFO AUTHOR_TYPE="user">
+			</MODIFICATION_INFO>
+			<INFO BITRATE="128000" GENRE="teste music !@#$%¨&amp;()" LABEL="teste music !@#$%¨&amp;()" COMMENT="teste music !@#$%¨&amp;()" KEY_LYRICS="teste music !@#$%¨&amp;()" RATING="teste music !@#$%¨&amp;()" REMIXER="teste music !@#$%¨&amp;()" PRODUCER="teste music !@#$%¨&amp;()" MIX="teste music !@#$%¨&amp;()" KEY="G" PLAYTIME="209" PLAYTIME_FLOAT="208.848984" RANKING="204" IMPORT_DATE="2022/5/16" RELEASE_DATE="2002/1/1" FLAGS="12" FILESIZE="3264" COLOR="2">
+			</INFO>
+			<TEMPO BPM="72.498070" BPM_QUALITY="100.000000">
+			</TEMPO>
+			<LOUDNESS PEAK_DB="-3.114033" PERCEIVED_DB="-4.873489" ANALYZED_DB="-4.873489">
+			</LOUDNESS>
+			<MUSICAL_KEY VALUE="7">
+			</MUSICAL_KEY>
+			<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="1888.985718" LEN="0.000000" REPEATS="-1" HOTCUE="0">
+			</CUE_V2>
+		</ENTRY>
+		<ENTRY MODIFIED_DATE="CCCC" MODIFIED_TIME="8145" AUDIO_ID="ANEARnh3qIipmrmbvLuZqpmYqpz97+y7Zs68////////t0NDRERWdmVEdWZal77+pkI0Mi7///j/7/9Z////////////////NlJGiHYyZlFBZmaIZsd5//r/9v/+//j/+f//////////////yv/////////4IFyWl5pJ3K3tnvvezajv53nP//l3r//6z///9q////+KqXVCX2lWTP/////////83////v////7//////////t///////////////////v/////////f/+/////////////+vv/6iKZ0JZdJYiRoMVgiakczg2VBP6hod43///7//////////P/LgA==" TITLE="teste music !@#$%¨&amp;()" ARTIST="teste music !@#$%¨&amp;()">
+			<LOCATION DIR="/:www/:" FILE="teste music !@#$%¨&amp;().mp3" VOLUME="D:" VOLUMEID="1ee0d715">
+			</LOCATION>
+			<ALBUM TRACK="1" TITLE="teste music !@#$%¨&amp;()">
+			</ALBUM>
+			<MODIFICATION_INFO AUTHOR_TYPE="user">
+			</MODIFICATION_INFO>
+			<INFO BITRATE="128000" GENRE="teste music !@#$%¨&amp;()" LABEL="teste music !@#$%¨&amp;()" COMMENT="teste music !@#$%¨&amp;()" KEY_LYRICS="teste music !@#$%¨&amp;()" RATING="teste music !@#$%¨&amp;()" REMIXER="teste music !@#$%¨&amp;()" PRODUCER="teste music !@#$%¨&amp;()" MIX="teste music !@#$%¨&amp;()" KEY="G" PLAYTIME="209" PLAYTIME_FLOAT="208.848984" RANKING="204" IMPORT_DATE="2022/5/16" RELEASE_DATE="2002/1/1" FLAGS="12" FILESIZE="3264" COLOR="2">
+			</INFO>
+			<TEMPO BPM="72.498070" BPM_QUALITY="100.000000">
+			</TEMPO>
+			<LOUDNESS PEAK_DB="-3.114033" PERCEIVED_DB="-4.873489" ANALYZED_DB="-4.873489">
+			</LOUDNESS>
+			<MUSICAL_KEY VALUE="7">
+			</MUSICAL_KEY>
+			<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="1888.985718" LEN="0.000000" REPEATS="-1" HOTCUE="0">
+			</CUE_V2>
+		</ENTRY>
+	</COLLECTION>
+</NML>

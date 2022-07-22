@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<NML VERSION="19">
+	<HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor">
+	</HEAD>
+	<MUSICFOLDERS>
+	</MUSICFOLDERS>
+	<COLLECTION ENTRIES="6">
+		<ENTRY MODIFIED_DATE="2022/1/16" MODIFIED_TIME="2369" LOCK="1" LOCK_MODIFICATION_TIME="2022-01-16T00:39:29" AUDIO_ID="AVIkQzMzMzMzMzMzNEj//////////////////////////////v///////////////pchARERIkZ4iKqpm6mqiKqYiKqYiaqYqpqpmqqqraZEM0NERERERERERERWdER////////P//////9SNUb///////v///////ck///////////////8MiIiRniIq6mbqqqIqpiIqpiJqpi6mqmaqqqtpkQzQ0RERERERERERFZ0RH///////9///////1I1Rv///////P//////9iT//////////////////////////////////////////////2QzM0QzM0MzNWREQQAAAA==">
+			<LOCATION DIR="/:dj/:Trasdacks/:" FILE="Dr. Dre &amp; Snoop Dogg - The Next Episode (Vollaz Bootleg)1.mp3" VOLUME="D:" VOLUMEID="1ee0d715">
+			</LOCATION>
+		</ENTRY>
+		<ENTRY MODIFIED_DATE="2022/2/26" MODIFIED_TIME="246" LOCK="0" LOCK_MODIFICATION_TIME="2019-06-09T22:49:32" AUDIO_ID="AOESIRIzMiERM0IiESMzIhI1ZDMzMzMjQzJDI0MjRDRENFZ7y9nKi7zKu4m9u6yYzL2dqUMzMzMzJDMzMjMyNEMzNEVoyIlqVpRJSWTKeXiFiEaXp4vLycmMu9nKer26q4i2IhITvM2cqKvcqrmL28nKjMzZ25u9yruZvcycmMzNnai83KzKmVWUpVpVlZdJZYd5V4RpanUzMzQzMzMzMzNENERDNDRWW7zJuoq9u6uIvLycl8u8rKlTMzMzMyQzMzMzMjRERERXiL28rJi7zZyoq9yruZvbytqcy9nKir3Ku4m9u6yYzL2Yd6vMq6ib27m4e8vJyXu8ynVkMQAAAA==" TITLE="$$$ (feat. Tropkillaz)" ARTIST="Doncesão; Tropkillaz">
+			<LOCATION DIR="/:dj/:Trasdacks/:" FILE="Dr. Dre &amp; Snoop Dogg - The Next Episode (Vollaz Bootleg)1.mp3" VOLUME="D:" VOLUMEID="1ee0d715">
+			</LOCATION>
+		</ENTRY>
+		<ENTRY MODIFIED_DATE="2022/2/26" MODIFIED_TIME="246" LOCK="0" LOCK_MODIFICATION_TIME="2021-06-27T01:49:29" AUDIO_ID="AOl9fLfYrI2pyLt7z/v/r976/8/P+s//qJz7n//I/6mv////////////5nn/////////////////////////////////////////////////////7sv////////////////////////5h4/////////////////////////6ms39mZ/5//+c/4n/////////////h3d3ZWVXZmZVZlZmj///////////u7v////////////////////////+7K3/n//////o//+I//n//////p/+3M/////////////////////////avb/6/6+/+v3fr/v//Hya17udi8fKnNUQAA==" TITLE="$$$ Dinheiro (Remix)" ARTIST="Zaíra; Morello; Zaíra &amp; Morello">
+			<LOCATION DIR="/:dj/:Trasdacks/:" FILE="Dr. Dre &amp; Snoop Dogg - The Next Episode (Vollaz Bootleg)1.mp3" VOLUME="D:" VOLUMEID="1ee0d715">
+			</LOCATION>
+		</ENTRY>
+		<ENTRY MODIFIED_DATE="2022/2/26" MODIFIED_TIME="246" LOCK="0" LOCK_MODIFICATION_TIME="2021-10-27T22:04:13" AUDIO_ID="AM8jIhEjMzIjMxEjMzMlVWVGZGdndmVEZVUl26y5yqyrytqdqumnm9m8nMnLrqq5vLyp262Z2b2ayGVVRWVnZXZWVWdWVYrZrJu5y62qyr2bucudiNmdm9q7nMnbrauGZlVmV3V2VmZ3RVMrqLmcmqnMnJnJrYnavIq5upuq2qqbRCEjVlZkV1V1V2VURWVTPK26ya2p2r2bycycd9usqsq7rcnZnZvZrKy5u525yqdlVFZld2dlZlV1ZlXKrKrJu6zJyp662a2byaucqtqum7vLraroZWVWdWdWdmZWhTVCmcmNmdidq8irjLi6ram5u5yYy52J1UIhNFISAAAAAA==" TITLE="3 Dias Virado" ARTIST="Mc IG">
+			<LOCATION DIR="/:dj/:Tracks/:" FILE="Mc IG - 3 Dias Virado [GR6 MUSIC].mp3" VOLUME="D:" VOLUMEID="1ee0d715">
+			</LOCATION>
+			<ALBUM OF_TRACKS="17" TRACK="4" TITLE="Só Explosão">
+			</ALBUM>
+			<MODIFICATION_INFO AUTHOR_TYPE="user">
+			</MODIFICATION_INFO>
+			<INFO BITRATE="319966" GENRE="OpenFormat" LABEL="GR6 MUSIC" COMMENT="div" RATING="aaa" COVERARTID="106/KHAYIYAFTVMXQDPPRYCLCZJGIIRB" KEY="12m" PLAYCOUNT="1" PLAYTIME="208" PLAYTIME_FLOAT="207.216324" RANKING="102" IMPORT_DATE="2018/12/1" LAST_PLAYED="2020/11/14" RELEASE_DATE="2017/1/1" FLAGS="12" FILESIZE="8415" COLOR="2">
+			</INFO>
+			<TEMPO BPM="94.999405" BPM_QUALITY="100.000000">
+			</TEMPO>
+			<LOUDNESS PEAK_DB="-0.599794" PERCEIVED_DB="1.755997" ANALYZED_DB="1.755997">
+			</LOUDNESS>
+			<MUSICAL_KEY VALUE="14">
+			</MUSICAL_KEY>
+			<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="53.951938" LEN="0.000000" REPEATS="-1" HOTCUE="0">
+			</CUE_V2>
+			<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="5" START="166.321000" LEN="5052.660000" REPEATS="-1" HOTCUE="2">
+			</CUE_V2>
+		</ENTRY>
+		<ENTRY MODIFIED_DATE="2022/2/26" MODIFIED_TIME="246" LOCK="0" LOCK_MODIFICATION_TIME="2020-11-28T02:29:16" AUDIO_ID="ANQSERIRIiESIRIhEhESIRIRL/v////6////+v////r//7f8703/Vc///0W/if+Uv////7/////O////z////93///pHl3epNHaHj/v////r/////P////zv///93////c////3b/+7qqszLztzf/euprcvf3v///93////8////6/////v////77////O////zf///+z////s/////P////z///9VmIaLZIlli/3P///9z////7////6/////v////73///zcz/3tqqy7rdy//u2pnMuv/P////z////8/////N////6////+v////6////6+///iEAAAAAAAAAAA==" TITLE="3am" ARTIST="IssoQueÉSomDeRap; Luccas Carlos &amp; Matuê">
+			<LOCATION DIR="/:dj/:Tracks/:" FILE="IssoQueÉSomDeRap; Luccas Carlos &amp; Matuê - 3am [IssoQueÉSomDeRap].mp3" VOLUME="D:" VOLUMEID="1ee0d715">
+			</LOCATION>
+			<ALBUM TRACK="1" TITLE="3am">
+			</ALBUM>
+			<MODIFICATION_INFO AUTHOR_TYPE="user">
+			</MODIFICATION_INFO>
+			<INFO BITRATE="320000" GENRE="Hip-Hop" LABEL="IssoQueÉSomDeRap" COMMENT="1" RATING="bbbb" COVERARTID="030/4UMRJJAUSI1ZRCESIDXSDIHU5WED" KEY="2m" PLAYCOUNT="2" PLAYTIME="213" PLAYTIME_FLOAT="212.166534" RANKING="51" IMPORT_DATE="2018/9/15" LAST_PLAYED="2020/11/27" RELEASE_DATE="2018/1/1" FLAGS="12" FILESIZE="8434" COLOR="7">
+			</INFO>
+			<TEMPO BPM="70.499741" BPM_QUALITY="100.000000">
+			</TEMPO>
+			<LOUDNESS PEAK_DB="-0.179576" PERCEIVED_DB="1.136284" ANALYZED_DB="1.136284">
+			</LOUDNESS>
+			<MUSICAL_KEY VALUE="7">
+			</MUSICAL_KEY>
+			<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="5" START="47.498700" LEN="13617.000000" REPEATS="-1" HOTCUE="2">
+			</CUE_V2>
+			<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="52.748851" LEN="0.000000" REPEATS="-1" HOTCUE="0">
+			</CUE_V2>
+			<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="13699.500000" LEN="0.000000" REPEATS="-1" HOTCUE="1">
+			</CUE_V2>
+			<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="2" START="190692.000000" LEN="0.000000" REPEATS="-1" HOTCUE="7">
+			</CUE_V2>
+		</ENTRY>
+		<ENTRY MODIFIED_DATE="2022/1/9" MODIFIED_TIME="11613" LOCK="1" LOCK_MODIFICATION_TIME="2022-01-09T03:13:33" AUDIO_ID="AO4SMSMSMhIhIhIhIxIyNGVlQzJGU0ImUkMkbP///////+///////////+7///////zv///7SbuKd7rLmJu4uJvO/////////////////////////////////////////////////////////////////////4//3////v///f////p6vIuKzNqZu6mou9///13/////////iYiL/+////////7////////////////////v///////////////////+v//f///+///9////+t/9r/////7/zf/////f/v///+/97uZEMjRI/+r////v/v2////+IiIRIiIiEREREA==" TITLE="7K" ARTIST="Luccas Carlos">
+			<LOCATION DIR="/:dj/:Tracks/:" FILE="Luccas Carlos - 7K [Universal Music International Ltda.].mp3" VOLUME="D:" VOLUMEID="1ee0d715">
+			</LOCATION>
+			<ALBUM TRACK="18" TITLE="7K">
+			</ALBUM>
+			<MODIFICATION_INFO AUTHOR_TYPE="user">
+			</MODIFICATION_INFO>
+			<INFO BITRATE="320000" GENRE="Hip-Hop" LABEL="Universal Music International Ltda." COMMENT="2" RATING="bbbb" COVERARTID="116/UXQEWSBXYY5EYB2T3R2CD1CVCMZB" KEY="11m" PLAYCOUNT="2" PLAYTIME="238" PLAYTIME_FLOAT="237.792648" RANKING="102" IMPORT_DATE="2018/8/2" LAST_PLAYED="2022/1/9" RELEASE_DATE="2017/1/1" FLAGS="28" FILESIZE="9472" COLOR="5">
+			</INFO>
+			<TEMPO BPM="79.999954" BPM_QUALITY="100.000000">
+			</TEMPO>
+			<LOUDNESS PEAK_DB="-0.887434" PERCEIVED_DB="-2.446327" ANALYZED_DB="-2.446327">
+			</LOUDNESS>
+			<MUSICAL_KEY VALUE="19">
+			</MUSICAL_KEY>
+			<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="5" START="52.875300" LEN="5999.990000" REPEATS="-1" HOTCUE="1">
+			</CUE_V2>
+			<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="52.902013" LEN="0.000000" REPEATS="-1" HOTCUE="0">
+			</CUE_V2>
+		</ENTRY>
+	</COLLECTION>
+</NML>
